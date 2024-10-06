@@ -91,7 +91,7 @@ namespace arasKargoAssesment.Features
             {
                 this.ScenarioStart();
 #line 4
-    testRunner.Given("the user is using the browser \"edge\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+    testRunner.Given("the user is using the browser \"chrome\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 5
     testRunner.Given("the user is on the bookstore homepage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
